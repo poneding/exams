@@ -1,3 +1,5 @@
-# LeetCode 刷题记录
+# exams
 
-本项目用于记录 LeetCode 刷题过程中的代码，以及一些笔记。
+本项目存储算法题目和解答，题目来源于 leetcode、剑指 offer、牛客网等。
+
+[leetcode](leetcode/README.md)
